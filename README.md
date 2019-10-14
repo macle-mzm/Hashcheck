@@ -1,0 +1,2 @@
+# Hashcheck
+方便在windows下面校验下载文件hashsum的powershell脚本
